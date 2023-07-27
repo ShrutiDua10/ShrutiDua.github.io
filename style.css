@@ -231,7 +231,7 @@ li.contact-item {
 
 .services-list div a.image.fit {
     display: inline-block;
-    width: 500px; /* Adjust the width of the image container */
+    width: 500px;
     height: 300px;  
     transition: transform 0.3s;
 }
@@ -243,7 +243,7 @@ li.contact-item {
 }
 
 .services-list div:hover a.image.fit {
-    transform: scale(1.1); /* Change the scale factor as desired */
+    transform: scale(1.1); 
 }
 
 .view-project-button {
